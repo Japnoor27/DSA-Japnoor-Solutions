@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0496-next-greater-element-i](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -60,9 +61,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0242-valid-anagram) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Counting
 |  |
 | ------- |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
