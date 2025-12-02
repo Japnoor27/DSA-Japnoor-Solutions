@@ -1,27 +1,15 @@
 class Solution {
 public:
     int countElements(vector<int>& nums) {
-        int count = 0;
-
-        for(int i = 0; i < nums.size(); i++){
-            bool check = false;
-
-            for(int j = 0; j < nums.size(); j++){
-                if(nums[i] > nums[j]){        // smaller mil gaya
-
-                    for(int k = 0; k < nums.size(); k++){
-                        if(nums[k] > nums[i]){  // bigger mil gaya
-                            check = true;
-                            break; // k loop break
-                        }
-                    }
-                }
-                if(check) break; // j loop break once confirmed
-            }
-
-            if(check) count++; // count add
-        }
-
+        sort(nums.begin(),nums.end());
+        int n=nums.size();
+        int count=0;
+        int mini=nums[0];
+        int maxi=nums[n-1];
+        for(int i=1;i<n-1;i++){
+        if(nums[i]>mini && nums[i]<maxi){
+            count++;
+        }}
         return count;
     }
 };
