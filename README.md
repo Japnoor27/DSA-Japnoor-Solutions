@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2104-sum-of-subarray-ranges) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,4 +60,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0242-valid-anagram) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+## Counting
+|  |
+| ------- |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 <!---LeetCode Topics End-->
