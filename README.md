@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0344-reverse-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Array
 |  |
 | ------- |
