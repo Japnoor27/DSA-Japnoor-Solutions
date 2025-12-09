@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
 |  |
@@ -149,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
