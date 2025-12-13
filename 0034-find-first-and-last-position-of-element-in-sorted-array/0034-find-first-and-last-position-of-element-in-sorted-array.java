@@ -1,18 +1,35 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        int found_f=-1;
-        int found_s=-1;
+        int ans=-1,ans1=-1;
         int n=nums.length;
-        for(int i=0;i<n;i++){
-            if(nums[i]==target){
-                found_f=i;
+        int s=0,st=0,e=n-1,en=n-1;
+        while(s<=e){
+            int mid=s+(e-s)/2;
+            if(nums[mid]==target){
+                ans=mid;
+                e=mid-1;
+            }
+            else if(target<nums[mid]){
+                e=mid-1;
+            }
+            else{
+                s=mid+1;
             }
         }
-        for(int j=n-1;j>=0;j--){
-            if(nums[j]==target){
-                found_s=j;
+        while(st<=en){
+            int mid=st+(en-st)/2;
+            if(nums[mid]==target){
+                ans1=mid;
+                st=mid+1;
+            }
+            else if(target<nums[mid]){
+                en=mid-1;
+            }
+            else{
+                st=mid+1;
             }
         }
-        return new int[]{found_s,found_f};
+        return new int[]{ans, ans1};
+
     }
 }
