@@ -3,12 +3,14 @@ class Solution {
         s=s.toLowerCase().replaceAll("[^a-z0-9]","");
         char[] arr=s.toCharArray();
         int st=0,e=s.length()-1;
+        boolean flag=true;
         while(st<e){
-            char temp=arr[st];
-            arr[st]=arr[e];
-            arr[e]=temp;
-            st++;
-            e--;
+          if(s.charAt(st)!=s.charAt(e)){
+            flag=false;
+            break;
+          }
+          st++;
+          e--;
         }
-        return String.valueOf(arr).equals(s);    }
+        return flag;    }
 }
