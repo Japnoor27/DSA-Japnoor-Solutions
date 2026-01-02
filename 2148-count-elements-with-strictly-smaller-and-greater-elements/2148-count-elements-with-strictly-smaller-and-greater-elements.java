@@ -1,24 +1,15 @@
 class Solution {
     public int countElements(int[] nums) {
-        int count = 0;
-
-        for(int i = 0; i < nums.length; i++) {
-            boolean ok = false;
-
-            for(int j = 0; j < nums.length; j++) {
-                if(nums[j] < nums[i]) {   // smaller mila
-                    for(int k = 0; k < nums.length; k++) {
-                        if(nums[k] > nums[i]) {  // greater mila
-                            count++;
-                            ok = true;
-                            break;
-                        }
-                    }
-                }
-                if(ok) break;
+        Arrays.sort(nums);
+        int count=0;
+        int n=nums.length;
+        int min=nums[0];
+        int max=nums[n-1];
+        for(int i=1;i<n-1;i++){
+            if(nums[i]>min && nums[i] <max){
+                count++;
             }
         }
-
         return count;
     }
 }
