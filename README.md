@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0647-palindromic-substrings) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0234-palindrome-linked-list](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Simulation
 |  |
 | ------- |
