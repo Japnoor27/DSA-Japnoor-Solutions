@@ -5,13 +5,12 @@ class Solution {
         while(i<sb.length()-1){
             if(sb.charAt(i)==sb.charAt(i+1)){
                 sb.delete(i,i+2);
-                if(i>0){
-                    i--;
-
-                }}
-                else{i++;}
+                if(i>0) i--;
+                
             }
+            else i++;
         
+        }
 return sb.toString();
     }
 }
