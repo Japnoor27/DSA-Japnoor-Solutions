@@ -10,9 +10,7 @@
  */
 class Solution {
     public ListNode swapPairs(ListNode head) {
-        if(head==null || head.next==null){
-            return head;
-        }
+        if(head==null || head.next==null) return head;
         ListNode first=head;
         ListNode sec=head.next;
         ListNode prev=null;
@@ -26,8 +24,9 @@ class Solution {
             else{
                 head=sec;
             }
+           
             prev=first;
-            first=third;
+             first=third;
             if(third!=null){
                 sec=third.next;
             }
@@ -36,5 +35,7 @@ class Solution {
             }
         }
         return head;
+
+
     }
 }
