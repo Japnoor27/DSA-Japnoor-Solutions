@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0496-next-greater-element-i) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0238-product-of-array-except-self](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0342-power-of-four) |
