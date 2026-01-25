@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0645-set-mismatch](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0645-set-mismatch) |
+| [0867-transpose-matrix](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0867-transpose-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0912-sort-an-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0867-transpose-matrix](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0867-transpose-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
