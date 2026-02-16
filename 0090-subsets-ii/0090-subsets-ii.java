@@ -10,6 +10,7 @@ class Solution {
         }
         }
     public List<List<Integer>> subsetsWithDup(int[] nums) {
+        Arrays.sort(nums);
         List<List<Integer>> a=new ArrayList<>();
         List <Integer> ds=new ArrayList<>();
         find(0,nums,ds,a);
