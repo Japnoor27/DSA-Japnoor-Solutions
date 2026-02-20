@@ -317,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0402-remove-k-digits) |
+## Database
+|  |
+| ------- |
+| [1683-invalid-tweets](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
