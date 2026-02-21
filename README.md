@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0183-customers-who-never-order) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0577-employee-bonus) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0620-not-boring-movies](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1683-invalid-tweets) |
