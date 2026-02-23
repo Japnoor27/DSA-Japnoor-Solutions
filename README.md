@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0386-lexicographical-numbers) |
 ## String Matching
 |  |
 | ------- |
@@ -334,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1729-find-followers-count) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
