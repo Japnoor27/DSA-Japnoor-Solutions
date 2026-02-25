@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0143-reorder-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0234-palindrome-linked-list) |
@@ -338,5 +339,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0386-lexicographical-numbers) |
+## Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
