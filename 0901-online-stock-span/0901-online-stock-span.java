@@ -1,24 +1,22 @@
-import java.util.*;
-
 class StockSpanner {
-    // Stack stores {price, span}
-    Stack<int[]> st;
-    
+Stack<int[]> st;
     public StockSpanner() {
-        st = new Stack<>();
+        st=new Stack<>();
     }
     
     public int next(int price) {
-        int span = 1;
-
-        // Pop all smaller or equal prices and add their spans
-        while (!st.isEmpty() && st.peek()[0] <= price) {
-            span += st.pop()[1];
+        int span=1;
+        while(!st.isEmpty() && st.peek()[0]<=price){
+            span+=st.pop()[1];
         }
-
-        // Push current price and its span
-        st.push(new int[]{price, span});
-
+        st.push(new int[]{price,span});
         return span;
+        
     }
 }
+
+/**
+ * Your StockSpanner object will be instantiated and called as such:
+ * StockSpanner obj = new StockSpanner();
+ * int param_1 = obj.next(price);
+ */
