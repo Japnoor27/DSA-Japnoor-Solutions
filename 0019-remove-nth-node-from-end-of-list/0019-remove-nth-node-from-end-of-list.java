@@ -20,6 +20,7 @@ class Solution {
         if(length==n){
             return head.next;
         }
+        if(n>length) return null;
         int search=length-n;
         temp=head;
         int count=1;
