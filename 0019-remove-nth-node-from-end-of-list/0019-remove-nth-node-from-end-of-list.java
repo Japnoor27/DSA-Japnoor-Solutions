@@ -21,14 +21,15 @@ class Solution {
             return head.next;
         }
         if(n>length) return null;
-        int search=length-n;
+        int search=length-n-1;
         temp=head;
         int count=1;
-        while(count<search && temp!=null){
+        while(count<=search){
             count++;
             temp=temp.next;
         }
-        temp.next=temp.next.next;
+        if( temp!=null && temp.next!=null){
+        temp.next=temp.next.next;}
 return head;
     }
 }
