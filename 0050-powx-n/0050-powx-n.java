@@ -13,6 +13,6 @@ class Solution {
             x=x*x;
             N=N/2;
         }
-return ans;
+        return ans;
     }
 }
