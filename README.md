@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0204-count-primes](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0238-product-of-array-except-self) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0268-missing-number) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0258-add-digits) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Greedy
@@ -384,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
