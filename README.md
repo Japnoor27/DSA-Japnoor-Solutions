@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2523-closest-prime-numbers-in-range](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Divide and Conquer
 |  |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0258-add-digits) |
+| [2523-closest-prime-numbers-in-range](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Greedy
 |  |
