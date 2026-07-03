@@ -13,12 +13,11 @@ class Solution {
         }
         int num=-1;
         int max=Integer.MIN_VALUE;
-        for(int x:map.values()){
-            max=Math.max(max,x);
-        }
+        
         for(int x:map.keySet()){
-            if(map.get(x)==max){
-                return x;
+            if(map.get(x)>max){
+                max=map.get(x);
+                num=x;
             }
         }
         return num;
