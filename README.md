@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0027-remove-element) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0027-remove-element) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Database
