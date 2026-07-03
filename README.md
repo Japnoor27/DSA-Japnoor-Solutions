@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0131-palindrome-partitioning) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0090-subsets-ii) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0049-group-anagrams) |
 | [0147-insertion-sort-list](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
