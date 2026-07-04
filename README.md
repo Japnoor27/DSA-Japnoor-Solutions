@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Array
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0645-set-mismatch) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2404-most-frequent-even-element](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2404-most-frequent-even-element) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2404-most-frequent-even-element](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2404-most-frequent-even-element) |
 ## Binary Search
