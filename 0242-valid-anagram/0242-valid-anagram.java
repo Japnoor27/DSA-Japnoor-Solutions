@@ -16,12 +16,9 @@ class Solution {
             else{
                 return false;
             }
-            
         }
-        for(char ch:map.keySet()){
-            if(map.get(ch)!=0){
-                return false;
-            }
+        for(int x:map.values()){
+            if(x!=0) return false;
         }
         return true;
     }
