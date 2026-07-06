@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0645-set-mismatch) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0647-palindromic-substrings) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -462,5 +465,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0567-permutation-in-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
