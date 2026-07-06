@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0647-palindromic-substrings) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0392-is-subsequence](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0907-sum-of-subarray-minimums) |
