@@ -1,28 +1,23 @@
 class Solution {
+    public boolean isPalindrome(String str){
+        int n=str.length();
+        for(int i=0;i<n;i++){
+            if(str.charAt(i)!=str.charAt(n-i-1)){
+                return false;
+            }
+        }
+        return true;
+
+    }
     public int countSubstrings(String s) {
         int count=0;
-          ArrayList<String> res = new ArrayList<>();
-        for (int i = 0; i < s.length(); i++) {
-            for (int j = i; j < s.length(); j++) {
-                boolean flag=true;
-                String sub=s.substring(i, j + 1);
-                int st=0,e=sub.length()-1;
-                while(st<=e){
-                    if(sub.charAt(st)!=sub.charAt(e)){
-                        flag=false;
-                        break;
-                    }
-                    st++;
-                    e--;
-                    
-                }
-                 if(flag==true){
+        for(int i=0;i<s.length();i++){
+            for(int j=i;j<s.length();j++){
+                if(isPalindrome(s.substring(i,j+1))){
                     count++;
                 }
-               
             }
         }
         return count;
-        
     }
 }
