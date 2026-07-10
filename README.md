@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0118-pascals-triangle) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0125-valid-palindrome) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0169-majority-element) |
