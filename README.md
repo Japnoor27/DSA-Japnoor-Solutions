@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1331-rank-transform-of-an-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2104-sum-of-subarray-ranges](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2104-sum-of-subarray-ranges) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1331-rank-transform-of-an-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0912-sort-an-array) |
+| [1331-rank-transform-of-an-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Counting
 |  |
