@@ -11,7 +11,8 @@ class Solution {
                 left++;
 
             }
-                count+=(i-left+1);
+            if(k>sum*(i-left+1)){
+                count+=(i-left+1);}
         
 
         }
