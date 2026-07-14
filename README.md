@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2404-most-frequent-even-element](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2404-most-frequent-even-element) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3527-find-the-most-common-response](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3527-find-the-most-common-response) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0713-subarray-product-less-than-k](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Quickselect
 |  |
 | ------- |
@@ -547,4 +550,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 <!---LeetCode Topics End-->
