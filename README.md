@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
