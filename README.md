@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3527-find-the-most-common-response](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3527-find-the-most-common-response) |
+| [3668-restore-finishing-order](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3668-restore-finishing-order) |
 ## Hash Table
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3527-find-the-most-common-response](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3527-find-the-most-common-response) |
+| [3668-restore-finishing-order](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3668-restore-finishing-order) |
 ## Monotonic Stack
 |  |
 | ------- |
