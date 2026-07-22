@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0402-remove-k-digits) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
