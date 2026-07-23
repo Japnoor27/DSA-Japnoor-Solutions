@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0647-palindromic-substrings](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0819-most-common-word](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0819-most-common-word) |
 | [1021-remove-outermost-parentheses](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0735-asteroid-collision) |
+| [0819-most-common-word](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0819-most-common-word) |
 | [0867-transpose-matrix](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0645-set-mismatch) |
+| [0819-most-common-word](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0819-most-common-word) |
 | [0904-fruit-into-baskets](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0819-most-common-word](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0819-most-common-word) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
