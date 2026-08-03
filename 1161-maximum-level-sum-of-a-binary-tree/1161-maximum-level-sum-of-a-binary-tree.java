@@ -15,39 +15,37 @@
  */
 class Solution {
     public int maxLevelSum(TreeNode root) {
-         Queue <TreeNode> q=new LinkedList<>();
-        List <Integer> arr=new ArrayList <>();
-
+        Queue <TreeNode> q=new LinkedList<>();
+        ArrayList<Integer> arr=new ArrayList<>();
         q.add(root);
-        if(root==null) return 1;
+        if(root==null){
+            return 1;
+        }
         while(!q.isEmpty()){
-                     TreeNode curr;
-int size=q.size();
-        int sum=0;
-
-          while(size>0){ 
-curr=q.remove();
-   sum+=curr.val;
-        if(curr.left!=null){
-            q.add(curr.left);
+            TreeNode curr;
+            int size=q.size();
+            int sum=0;
+            while(size>0){
+                curr=q.remove();
+                sum+=curr.val;
+                if(curr.left!=null){
+                    q.add(curr.left);
+                }
+                if(curr.right!=null){
+                    q.add(curr.right);
+                }
+                size--;
+            }
+            arr.add(sum);
         }
-        if(curr.right!=null){
-            q.add(curr.right);
+        int max=Integer.MIN_VALUE;
+        int ind=0;
+        for(int i=0;i<arr.size();i++){
+            if(arr.get(i)>max){
+                max=arr.get(i);
+                ind=i;
+            }
         }
-      
-        size--;
-          }
-          arr.add(sum);
-        }
-int max = Integer.MIN_VALUE;
-int index = 0;
-
-for (int i = 0; i < arr.size(); i++) {
-    if (arr.get(i) > max) {
-        max = arr.get(i);
-        index = i;
+        return ind+1;
     }
-}
-
-return index + 1;    }
 }
