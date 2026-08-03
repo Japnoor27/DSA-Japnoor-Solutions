@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3527-find-the-most-common-response](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3527-find-the-most-common-response) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0867-transpose-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
