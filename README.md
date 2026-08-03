@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2404-most-frequent-even-element](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2404-most-frequent-even-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3527-find-the-most-common-response](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3527-find-the-most-common-response) |
 | [3668-restore-finishing-order](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3668-restore-finishing-order) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2404-most-frequent-even-element](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2404-most-frequent-even-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3527-find-the-most-common-response](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3527-find-the-most-common-response) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -518,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -606,4 +610,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Prime Factorization
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Primality Test
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Sieve Theory
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 <!---LeetCode Topics End-->
