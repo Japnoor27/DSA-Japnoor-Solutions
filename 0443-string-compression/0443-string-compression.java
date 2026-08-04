@@ -1,11 +1,10 @@
 class Solution {
     public int compress(char[] chars) {
-        int i=0;
-        int k=0;
+        int i=0,k=0;
         while(i<chars.length){
             char ch=chars[i];
             int count=1;
-            while(i+1<chars.length && chars[i]==chars[i+1]){
+            while(i+1<chars.length&& chars[i]==chars[i+1]){
                 count++;
                 i++;
             }
@@ -16,7 +15,7 @@ class Solution {
                     chars[k++]=c;
                 }
             }
-             i++;
+            i++;
         }
         return k;
     }
