@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0058-length-of-last-word) |
+| [0076-minimum-window-substring](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -615,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0424-longest-repeating-character-replacement) |
