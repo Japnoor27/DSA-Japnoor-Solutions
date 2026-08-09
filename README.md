@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1046-last-stone-weight](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1046-last-stone-weight) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1046-last-stone-weight) |
 ## Matrix
 |  |
 | ------- |
