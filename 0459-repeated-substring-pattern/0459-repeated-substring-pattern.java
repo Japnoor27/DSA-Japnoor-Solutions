@@ -1,10 +1,10 @@
 class Solution {
     public boolean repeatedSubstringPattern(String s) {
-        int n=s.length();
         int i=1;
+        int n=s.length();
         int len=0;
-        int[]lps=new int[n];
-        while(i<s.length()){
+        int[] lps=new int[n];
+        while(i<n){
             if(s.charAt(i)==s.charAt(len)){
                 len++;
                 lps[i]=len;
@@ -19,7 +19,6 @@ class Solution {
                     i++;
                 }
             }
-
         }
         int check=n-lps[n-1];
         if(n%check==0 && lps[n-1]!=0) return true;
