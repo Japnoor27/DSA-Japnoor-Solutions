@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1392-longest-happy-prefix](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1392-longest-happy-prefix) |
 | [1446-consecutive-characters](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1446-consecutive-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0686-repeated-string-match) |
+| [1392-longest-happy-prefix](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1392-longest-happy-prefix) |
 ## Recursion
 |  |
 | ------- |
@@ -679,12 +681,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0686-repeated-string-match) |
+| [1392-longest-happy-prefix](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0686-repeated-string-match) |
+| [1392-longest-happy-prefix](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1392-longest-happy-prefix) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
@@ -693,10 +697,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1392-longest-happy-prefix) |
 ## Manacher
 |  |
 | ------- |
