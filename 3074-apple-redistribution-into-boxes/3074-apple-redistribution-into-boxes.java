@@ -8,7 +8,7 @@ class Solution {
    
         int count=0;
 
-        for(int i=capacity.length-1;i>=0;i--){
+        for(int i=capacity.length-1;i>=0;i--){ //or u can rev arr
             if(sum_apple<=0){
                break;
             }
