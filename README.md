@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3527-find-the-most-common-response](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3527-find-the-most-common-response) |
 | [3668-restore-finishing-order](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3668-restore-finishing-order) |
 ## Hash Table
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Quickselect
 |  |
 | ------- |
@@ -666,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Prime Factorization
 |  |
 | ------- |
