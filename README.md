@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1046-last-stone-weight) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0912-sort-an-array) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1331-rank-transform-of-an-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1710-maximum-units-on-a-truck](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1710-maximum-units-on-a-truck) |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1710-maximum-units-on-a-truck](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
