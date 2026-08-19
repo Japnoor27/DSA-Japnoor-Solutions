@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2706-buy-two-chocolates](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2706-buy-two-chocolates) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1710-maximum-units-on-a-truck](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2706-buy-two-chocolates](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2706-buy-two-chocolates) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3536-maximum-product-of-two-digits](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1710-maximum-units-on-a-truck](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
+| [2706-buy-two-chocolates](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2706-buy-two-chocolates) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3745-maximize-expression-of-three-elements) |
