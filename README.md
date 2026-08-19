@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0605-can-place-flowers](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1710-maximum-units-on-a-truck](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1710-maximum-units-on-a-truck) |
