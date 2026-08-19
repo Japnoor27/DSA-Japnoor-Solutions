@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3527-find-the-most-common-response](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3527-find-the-most-common-response) |
 | [3668-restore-finishing-order](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3668-restore-finishing-order) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3745-maximize-expression-of-three-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3536-maximum-product-of-two-digits](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3745-maximize-expression-of-three-elements) |
 ## Counting
 |  |
 | ------- |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3745-maximize-expression-of-three-elements) |
 ## Database
 |  |
 | ------- |
@@ -670,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3745-maximize-expression-of-three-elements) |
 ## Sliding Window
 |  |
 | ------- |
