@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3527-find-the-most-common-response](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3527-find-the-most-common-response) |
 | [3668-restore-finishing-order](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3668-restore-finishing-order) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3527-find-the-most-common-response](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3527-find-the-most-common-response) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3668-restore-finishing-order](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3668-restore-finishing-order) |
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2706-buy-two-chocolates](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2706-buy-two-chocolates) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3745-maximize-expression-of-three-elements) |
