@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0075-sort-colors) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0409-longest-palindrome) |
