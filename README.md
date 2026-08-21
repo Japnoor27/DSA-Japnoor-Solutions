@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
+| [2864-maximum-odd-binary-number](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2864-maximum-odd-binary-number) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3163-string-compression-iii](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3163-string-compression-iii) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [2864-maximum-odd-binary-number](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2864-maximum-odd-binary-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2706-buy-two-chocolates) |
+| [2864-maximum-odd-binary-number](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2864-maximum-odd-binary-number) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
