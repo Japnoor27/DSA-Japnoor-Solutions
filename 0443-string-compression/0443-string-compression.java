@@ -10,11 +10,11 @@ class Solution {
             }
             chars[k++]=ch;
             if(count>1){
-                String str=Integer.toString(count);
-                for(char c:str.toCharArray()){
-                    chars[k++]=c;
-                }
-            }
+            String str=Integer.toString(count);
+            for(char c:str.toCharArray()){
+                chars[k++]=c;
+
+            }}
             i++;
         }
         return k;
