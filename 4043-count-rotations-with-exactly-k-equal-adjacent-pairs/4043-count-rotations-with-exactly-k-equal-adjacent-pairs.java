@@ -1,16 +1,17 @@
 class Solution {
     public int countRotations(String s, int k) {
+      
         int count2=0;
-        for(int j=0;j<s.length();j++){
-             int count1=0;
-            
-            String str=s.substring(j)+s.substring(0,j);
-            for(int i=0;i<str.length()-1;i++){
-                if(str.charAt(i)==str.charAt(i+1)) count1++;
+        for(int i=0;i<s.length();i++){
+            String r="";
+        int count=0;
+            r=s.substring(i)+s.substring(0,i);
+            for(int j=1;j<r.length();j++){
+                if(r.charAt(j-1)==r.charAt(j))count++;;
+                
             }
-            if(count1==k) count2++;
-            
+            if(count==k) count2++;
         }
-        return count2;
+return count2;
     }
 }
