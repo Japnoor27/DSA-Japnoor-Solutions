@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3745-maximize-expression-of-three-elements](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3745-maximize-expression-of-three-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3904-smallest-stable-index-ii) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
 |  |
 | ------- |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Dynamic Programming
 |  |
 | ------- |
