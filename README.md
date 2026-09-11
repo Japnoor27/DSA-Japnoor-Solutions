@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3745-maximize-expression-of-three-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
@@ -618,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2848-points-that-intersect-with-cars](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2848-points-that-intersect-with-cars) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3903-smallest-stable-index-i](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Quickselect
 |  |
