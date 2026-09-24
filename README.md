@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3163-string-compression-iii](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3163-string-compression-iii) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3527-find-the-most-common-response](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3527-find-the-most-common-response) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Array
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3360-stone-removal-game](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3360-stone-removal-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
