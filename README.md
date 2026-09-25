@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0496-next-greater-element-i) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0394-decode-string) |
 | [1922-count-good-numbers](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1922-count-good-numbers) |
 ## Simulation
 |  |
