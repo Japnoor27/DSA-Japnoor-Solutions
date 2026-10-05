@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2104-sum-of-subarray-ranges](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## String
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1710-maximum-units-on-a-truck](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -610,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0867-transpose-matrix) |
 | [1094-car-pooling](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1094-car-pooling) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
