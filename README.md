@@ -578,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3871-count-commas-in-range-ii) |
@@ -734,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3745-maximize-expression-of-three-elements) |
 ## Database
