@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2848-points-that-intersect-with-cars](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2848-points-that-intersect-with-cars) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2540-minimum-common-value](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2540-minimum-common-value) |
 | [2848-points-that-intersect-with-cars](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2848-points-that-intersect-with-cars) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
@@ -925,4 +927,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0973-k-closest-points-to-origin) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
