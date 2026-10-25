@@ -1,12 +1,12 @@
 class Solution {
-    public int gcd(int i,int j){
-if(j==0) return i;
-return gcd(j,i%j);
+    public int gcd(int a,int b){
+        if(b==0) return a;
+        return gcd(b,a%b);
     }
     public int findGCD(int[] nums) {
         Arrays.sort(nums);
-        int i=nums[0];
-        int j=nums[nums.length-1];
-        return gcd(i,j);
+        int num1=nums[0];
+        int num2=nums[nums.length-1];
+        return gcd(num1,num2);
     }
 }
