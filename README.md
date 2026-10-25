@@ -554,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0050-powx-n) |
