@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1109-corporate-flight-bookings) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1250-check-if-it-is-a-good-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1175-prime-arrangements](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1175-prime-arrangements) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1250-check-if-it-is-a-good-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1323-maximum-69-number](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1323-maximum-69-number) |
 | [1922-count-good-numbers](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1922-count-good-numbers) |
@@ -715,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0258-add-digits) |
+| [1250-check-if-it-is-a-good-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2427-number-of-common-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -851,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2427-number-of-common-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -864,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2427-number-of-common-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -961,4 +966,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1250-check-if-it-is-a-good-array) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1250-check-if-it-is-a-good-array) |
 <!---LeetCode Topics End-->
