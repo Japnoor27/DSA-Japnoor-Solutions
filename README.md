@@ -977,4 +977,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1250-check-if-it-is-a-good-array) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
