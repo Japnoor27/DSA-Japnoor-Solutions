@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0622-design-circular-queue](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0622-design-circular-queue) |
+| [0706-design-hashmap](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0901-online-stock-span) |
 ## Queue
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0706-design-hashmap](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0735-asteroid-collision) |
 | [0819-most-common-word](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0819-most-common-word) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0706-design-hashmap](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0819-most-common-word) |
 | [0904-fruit-into-baskets](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0904-fruit-into-baskets) |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0622-design-circular-queue](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0622-design-circular-queue) |
+| [0706-design-hashmap](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0707-design-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -920,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0214-shortest-palindrome) |
+| [0706-design-hashmap](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0706-design-hashmap) |
 | [1392-longest-happy-prefix](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1392-longest-happy-prefix) |
 ## Manacher
 |  |
