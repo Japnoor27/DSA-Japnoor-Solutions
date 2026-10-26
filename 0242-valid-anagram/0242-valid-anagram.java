@@ -1,24 +1,16 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
-        HashMap <Character,Integer> map=new HashMap <>();
+        int[] freq=new int[26];
         for(char ch:s.toCharArray()){
-            if(map.containsKey(ch)){
-                map.put(ch,map.get(ch)+1);
-            }
-            else{
-                map.put(ch,1);
-            }
+int ind=ch-'a';
+freq[ind]++;
         }
-        for(char ch:t.toCharArray()){
-            if(map.containsKey(ch)){
-                map.put(ch,map.get(ch)-1);
-            }
-            else{
-                return false;
-            }
+         for(char ch:t.toCharArray()){
+int ind=ch-'a';
+freq[ind]--;
         }
-        for(int x:map.values()){
-            if(x!=0) return false;
+        for(int num:freq){
+            if(num!=0) return false;
         }
         return true;
     }
