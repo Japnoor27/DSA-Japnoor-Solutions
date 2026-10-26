@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0706-design-hashmap](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0735-asteroid-collision) |
 | [0819-most-common-word](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0819-most-common-word) |
 | [0867-transpose-matrix](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0867-transpose-matrix) |
@@ -689,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1004-max-consecutive-ones-iii) |
