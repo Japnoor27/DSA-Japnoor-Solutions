@@ -996,4 +996,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0069-sqrtx) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
