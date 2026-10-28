@@ -9,6 +9,7 @@ class Solution {
                 sum-=nums[left];
                 left++;
             }
+            if(i-left+1==k)
             max_avg=Math.max(max_avg,sum/k);
         }
         return max_avg;
