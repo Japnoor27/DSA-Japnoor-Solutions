@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0231-power-of-two) |
