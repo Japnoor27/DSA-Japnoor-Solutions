@@ -1,6 +1,7 @@
 class Solution {
-    public int helper(int n,int start,int[] nums,int[] dp){
+    public int helper(int n,int start,int[] nums,int[]dp){
         if(n<start) return 0;
+        if(n==0) return nums[n];
         if(dp[n]!=-1) return dp[n];
         int pick=nums[n]+helper(n-2,start,nums,dp);
         int notpick=helper(n-1,start,nums,dp);
@@ -8,8 +9,8 @@ class Solution {
     }
     public int rob(int[] nums) {
         int n=nums.length;
-        int[] dp=new int[n];
         if(n==1) return nums[0];
+        int[] dp=new int[n];
         Arrays.fill(dp,-1);
         int case1=helper(n-2,0,nums,dp);
         Arrays.fill(dp,-1);
