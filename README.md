@@ -452,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0509-fibonacci-number](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -597,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0445-add-two-numbers-ii](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0445-add-two-numbers-ii) |
+| [0509-fibonacci-number](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1175-prime-arrangements](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1175-prime-arrangements) |
@@ -684,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0394-decode-string) |
+| [0509-fibonacci-number](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1922-count-good-numbers) |
 ## Simulation
 |  |
@@ -1031,4 +1034,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0881-boats-to-save-people) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
