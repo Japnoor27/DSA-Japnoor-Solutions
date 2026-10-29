@@ -1,12 +1,9 @@
 class Solution {
     public int search(int[] nums, int target) {
-        int found=-1;
+        // Arrays.sort(nums);
         for(int i=0;i<nums.length;i++){
-            if(nums[i]==target){
-                found=i;
-                break;
-            }
+            if(nums[i]==target) return i;
         }
-        return found;
+        return -1;
     }
 }
