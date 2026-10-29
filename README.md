@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1710-maximum-units-on-a-truck](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2706-buy-two-chocolates](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2706-buy-two-chocolates) |
@@ -777,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1710-maximum-units-on-a-truck](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
