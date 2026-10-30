@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0213-house-robber-ii](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0509-fibonacci-number) |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -995,6 +998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Increasing Subsequence
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Japnoor27/DSA-Japnoor-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 ## Bracket Sequences
 |  |
