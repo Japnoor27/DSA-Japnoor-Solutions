@@ -1,18 +1,19 @@
 class Solution {
-    public void find(int index,int[] nums,List<Integer> ds,List<List<Integer>> a){
-        if(index==nums.length){
-            a.add(new ArrayList<>(ds));
-            return;
+    public List<List<Integer>> backtrack(int[] nums,int ind,List<Integer> ans,List<List<Integer>> list){
+        if(ind==nums.length) {
+            list.add(new ArrayList<>(ans));
+            return list;
         }
-        ds.add(nums[index]);
-        find(index+1,nums,ds,a);
-        ds.remove(ds.size()-1);
-        find(index+1,nums,ds,a);
+        ans.add(nums[ind]);
+        backtrack(nums,ind+1,ans,list);
+        ans.remove(ans.size()-1);
+         backtrack(nums,ind+1,ans,list);
+         return list;
+
     }
     public List<List<Integer>> subsets(int[] nums) {
-List<List<Integer>> a=new ArrayList<>();
-List<Integer> ds=new ArrayList<>();
-find(0,nums,ds,a);
-return a;
+        List<List<Integer>> list=new ArrayList<>();
+        List<Integer> ans=new ArrayList<>();
+        return backtrack(nums,0,ans,list);
     }
 }
