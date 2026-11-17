@@ -1,20 +1,22 @@
 class Solution {
-    public void backtrack(int ind,int[] nums, List<List<Integer>> ans,List<Integer> temp){
-        ans.add(new ArrayList <>(temp));
-        for(int i=ind;i<nums.length;i++){
-            if(i!=ind && nums[i]==nums[i-1]){
-             continue;
-            }
-               temp.add(nums[i]);
-                backtrack(i+1,nums,ans,temp);
-                temp.remove(temp.size()-1);
+    public List<List<Integer>> backtrack(int[] nums,List<Integer> ans,List<List<Integer>> list,int i){
+        if(i==nums.length) {
+            list.add(new ArrayList<>(ans));
+            return list;
         }
+                ans.add(nums[i]);
+backtrack(nums,ans,list,i+1);
+ans.remove(ans.size()-1);
+int idx=i+1;
+while(idx<nums.length && nums[idx]==nums[idx-1])idx++;
+backtrack(nums,ans,list,idx);
+       return list; 
     }
     public List<List<Integer>> subsetsWithDup(int[] nums) {
         Arrays.sort(nums);
-        List<List<Integer>> ans=new ArrayList<>();
-        List<Integer> temp=new ArrayList <>();
-        backtrack(0,nums,ans,temp);
-        return ans;
+        List<Integer> ans=new ArrayList<>();
+        List<List<Integer>> list=new ArrayList<>();
+        return backtrack(nums,ans,list,0);
+        
     }
 }
