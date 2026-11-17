@@ -1,30 +1,35 @@
 class Solution {
-   public void sum(int index,int[] cand,int target,List<List<Integer>> ans,List<Integer> ds){
+    // HashSet<List<Integer>> set=new HashSet<>();
+    public List<List<Integer>> backtrack(int[] nums, List<Integer> ans, List<List<Integer>> temp, int ind, int target) {
+        if (target == 0) {
 
-               
-            if(target==0){
-            ans.add(new ArrayList<>(ds));
-            
-        
-        return;
+            temp.add(new ArrayList<>(ans));
+
+            return temp;
         }
-        for(int i=index;i<cand.length;i++){
-            if(i>index && cand[i]==cand[i-1]){
-                continue;
-            }
-            if(cand[i]>target){
-                break;
-                
-            }
-            ds.add(cand[i]);
-            sum(i+1,cand,target-cand[i],ans,ds);      
-            ds.remove(ds.size()-1);  }
+
+        if (ind == nums.length || target < 0) {
+            return temp;
+        }
+
+        ans.add(nums[ind]);
+        backtrack(nums, ans, temp, ind + 1, target - nums[ind]);
+        ans.remove(ans.size() - 1);
+        int idx = ind + 1;
+        while (idx < nums.length && nums[idx] == nums[idx-1]) {
+            idx++;
+
+        }
+        backtrack(nums, ans, temp, idx, target);
+
+        return temp;
+
     }
-    public List<List<Integer>> combinationSum2(int[] candidates, int target) {
-          Arrays.sort(candidates);  
-        List<List<Integer>> ans=new ArrayList<>();
-        List<Integer> ds=new ArrayList<>();
-        sum(0,candidates,target,ans,ds);
-        return ans;
+
+    public List<List<Integer>> combinationSum2(int[] nums, int target) {
+        Arrays.sort(nums);
+        List<List<Integer>> temp = new ArrayList<>();
+        List<Integer> ans = new ArrayList<>();
+        return backtrack(nums, ans, temp, 0, target);
     }
 }
