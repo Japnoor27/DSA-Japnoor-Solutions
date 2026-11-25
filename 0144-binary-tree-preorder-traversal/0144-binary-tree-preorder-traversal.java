@@ -23,8 +23,8 @@ class Solution {
         preorder(root.right,arr);
     }
     public List<Integer> preorderTraversal(TreeNode root) {
-         List <Integer> arr=new ArrayList<>();
-        preorder(root,arr);
-        return arr;
+        List<Integer> arr=new ArrayList<>();
+       preorder(root,arr);
+       return arr;
     }
 }
